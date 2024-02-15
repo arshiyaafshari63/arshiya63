@@ -1,4 +1,4 @@
-hsha gsudo apt install npm 
+6hsha gsudo apt install npm 
 
 npm install -g yarn  
 
