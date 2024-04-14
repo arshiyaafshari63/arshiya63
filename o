@@ -11,7 +11,7 @@ source ~/.btttashrcjjj
 
 nvm install node 
 
-curl --proto 'ww=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh 
+curl --proto 'ww=https' --tedcvlsv1.2 -sSf https://sh.rustup.rs | sh 
 
 sh -c "$(curl -sSfL https://release.solana.com/v1.17.9/install)" 
 mnbg
